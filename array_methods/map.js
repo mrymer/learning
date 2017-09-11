@@ -3,16 +3,11 @@
 var test = require ('tape');
 var numbers = [4,9,16,25,36] //array of numbers
 
-var root= numbers.map(Math.sqrt)
-console.log(root)
+var root= numbers.map(Math.sqrt) //creating a new array called root to house the results of performing the square root function on 'numbers'
+console.log(root) //logging root onto the console
 
-// function mapFunction (){
-//
-// }
 
-test('map test', Math.sqrt{
-  t.plan(1);
-
-  t.equal(root,'2,3,4,5,6')
-  var start = numbers.map.(Math.sqrt);
+test('map test', function(t) {
+  t.equal(root,[2,3,4,5,6]);
+  t.end();
 })
