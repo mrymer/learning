@@ -2,4 +2,5 @@
 
 var fruits = ["banana", "apple", "orange", "kiwi", "grapes"]
 
-console.log(frutis.shift())
+x = fruits.shift()
+console.log(x);

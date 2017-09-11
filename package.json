@@ -1,0 +1,21 @@
+{
+  "name": "dev_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node map.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrymer/learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrymer/learning/issues"
+  },
+  "homepage": "https://github.com/mrymer/learning#readme"
+}

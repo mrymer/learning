@@ -2,4 +2,4 @@
 
 var fruits = ["banana", "apple", "orange", "kiwi", "grapes"]
 
-console.log(frutis.pop())
+console.log(fruits.pop())

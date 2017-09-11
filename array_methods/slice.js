@@ -1,4 +1,4 @@
 //returning part of the array
 var fruits = ["banana", "apple", "orange", "kiwi", "grapes"]
 
-console.log(frutis.slice(1,4))
+console.log(fruits.slice(1,4))

@@ -2,4 +2,4 @@
 
 var fruits = ["banana", "apple", "orange", "kiwi", "grapes"]
 
-console.log(frutis.unshift("watermelon"))
+console.log(fruits.unshift("watermelon"))
